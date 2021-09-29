@@ -18,6 +18,8 @@ The curate some the best @ agile and DevOps topics with this [Twitter list](http
 - Value Stream Mapping
 - Software architecture
 - DevOps
+- Site Reliability Engineering
+- Team Topologies
 
 
 ## News
