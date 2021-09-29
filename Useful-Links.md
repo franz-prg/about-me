@@ -21,6 +21,7 @@ The curate some the best @ agile and DevOps topics with this [Twitter list](http
 - Site Reliability Engineering
 - Team Topologies
 - Kanban
+- [ARK Invest insights](https://ark-invest.com/articles/)
 
 
 ## News
