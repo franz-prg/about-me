@@ -20,6 +20,7 @@ The curate some the best @ agile and DevOps topics with this [Twitter list](http
 - DevOps
 - Site Reliability Engineering
 - Team Topologies
+- Kanban
 
 
 ## News
