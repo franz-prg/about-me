@@ -26,6 +26,8 @@ The curate some the best @ agile and DevOps topics with this [Twitter list](http
 
 ## News
 
+- [CleanTechnica](https://cleantechnica.com/)
+- 
 
 ## Collections of useful links
 
